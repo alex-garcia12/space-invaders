@@ -26,7 +26,11 @@ Doesn't Really Work
 -Animations leave a bit to be desired
 
 -Extra features such as: 
+
   o Enemies shooting back
+  
   o Destructable cover for the player to hide under 
+  
   o Bonus alien ship spawning and scrolling by
+  
 were not implemented
